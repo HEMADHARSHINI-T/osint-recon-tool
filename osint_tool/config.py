@@ -1,0 +1,3 @@
+EMAILREP_KEY   = "waiting_for_approval"
+VIRUSTOTAL_KEY = "0f878fdaca293da083196d68e1e86530d9f54d3e50a36e6f66ac87a93ef7c4aa "
+IPINFO_TOKEN   = "51368234bc217f"
